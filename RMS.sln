@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RMS", "RMS.csproj", "{B85396C5-08DD-4962-888B-749348394DF4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RMS(Setup)", "..\RMS(Setup)\RMS(Setup).vdproj", "{BECB7B02-8799-4BCE-99F2-01E1B962DCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85396C5-08DD-4962-888B-749348394DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85396C5-08DD-4962-888B-749348394DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85396C5-08DD-4962-888B-749348394DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85396C5-08DD-4962-888B-749348394DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECB7B02-8799-4BCE-99F2-01E1B962DCB4}.Debug|Any CPU.ActiveCfg = Debug
+		{BECB7B02-8799-4BCE-99F2-01E1B962DCB4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26F0A7C9-440F-411C-8952-EAB147A19BF9}
+	EndGlobalSection
+EndGlobal
